@@ -26,7 +26,21 @@ https://bitrapavankumar.netlify.app/
     ```bash
     cd Face Recognisation
     ```
-3. Install dependencies
+3. Change into the project directory
+    ```bash
+    python app.py
+    ```
+
+
+4. Open New Terminal and Change into the project directory
+    ```bash
+    cd Frontend
+    ```
+3. Open New Terminal and Change into the project directory
+    ```bash
+    cd pavan
+    ```   
+4. Install dependencies
     ```bash
     yarn install 
     ```
@@ -39,8 +53,9 @@ yarn dev
 Visit http://localhost:5173/ in your browser
 
 ## Configurations
-- You can change content of the website at `/data/user_info.js`
-- Change the Google Analytics MEASUREMENT ID at `index.html` to your own.
+- You can change your environmental variabes of the project at `/Face Recognisation/.venv`
+- You can change content of the project at `/Face Recognisation/Known_faces`
+
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback is highly appreciated!
