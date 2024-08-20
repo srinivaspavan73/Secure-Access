@@ -1,9 +1,8 @@
-# Secure-Access
 
 # Secure Access
 
 <center>
-    <img src="/public/cover.png" alt="Reactfolio" />
+    <img src="Patent form-Highlated.pdf" alt="license" />
 </center>
 
 <center>
