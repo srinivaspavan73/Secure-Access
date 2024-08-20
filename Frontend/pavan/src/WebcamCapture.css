@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: white; /* Optional: if you want the whole page to have a black background */
+  }
+/* WebcamCapture.css */
+.webcam-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px; /* Define a fixed height */
+    width: 300px; /* Define a fixed width */
+    /* background-color: white;  */
+    border-radius: 50%; /* This makes it a circle */
+    /*overflow: hidden; /* Ensures the content does not spill outside the circular boundary */
+  }
+  
+  
+  
+.webcam {
+    width: 100%;
+    max-width: 640px;
+    border: 3px solid #007bff;
+    border-radius: 8px;
+  }
+  
+.button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+.button:hover {
+    background-color: #0056b3;
+  }
+  
+.matched-name {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+  }
+  
+.instructions {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  

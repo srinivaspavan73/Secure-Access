@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "axios": "^1.6.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "react-webcam": "^7.2.0"
+  }
+}
