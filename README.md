@@ -1,18 +1,6 @@
 
 # Secure Access
 
-<center>
-    <img src="Patent form-Highlated.pdf" alt="license" />
-</center>
-
-<center>
-
-## Reference
-
-https://bitrapavankumar.netlify.app/
-
-</center>
-
 ## Technologies Used
 <img  src="https://skillicons.dev/icons?i=flask,react,opencv,git&perline=7"/>
 
@@ -58,3 +46,11 @@ Visit http://localhost:5173/ in your browser
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback is highly appreciated!
+
+# Patent Publication
+
+<center>
+    <div align="center">
+<a href="https://ibb.co/7Qw2XYt"><img src="https://i.ibb.co/vh7ZHw4/Bitra-Patent-form-Highlated.jpg" alt="Bitra-Patent-form-Highlated" border="0"></a>
+</div>
+</center>
