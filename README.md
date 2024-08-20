@@ -26,17 +26,17 @@ https://bitrapavankumar.netlify.app/
     ```bash
     cd Face Recognisation
     ```
-3. Change into the project directory
+3. Run the Face recognisation modules
     ```bash
     python app.py
     ```
 
 
-4. Open New Terminal and Change into the project directory
+4. Open New Terminal and Change into the root directory
     ```bash
     cd Frontend
     ```
-3. Open New Terminal and Change into the project directory
+3. Change into the project directory
     ```bash
     cd pavan
     ```   
